@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/za.xml,https://iptv-org.github.io/epg/guides/qa.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/za.xml,https://iptv-org.github.io/epg/guides/qa.xml,https://iptv-org.github.io/epg/guides/ca.xml"
 
 #EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/Bi8uR5O.png" group-title="Sport",SkySpMainEv
 #KODIPROP:inputstream=inputstream.adaptive
@@ -40,6 +40,11 @@ https://webudi.openhd.lol/lb/premium32/index.m3u8|User-Agent=Mozilla/5.0 (Window
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium33/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
 
+#EXTINF:0 tvg-country="uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/512px-RT%C3%892_logo.svg.png" group-title="Sport",RTE2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium365/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
+
 #EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/xr5yTPW.png" group-title="Sport",Viaplay Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -50,10 +55,25 @@ https://webudi.openhd.lol/lb/premium451/index.m3u8|User-Agent=Mozilla/5.0 (Windo
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium550/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
 
+#EXTINF:0 tvg-country="ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sport",TSN1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium111/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
+
+#EXTINF:0 tvg-country="ca" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sport",TSN4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium114/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
+
 #EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Sport;Series;Movies",USA Network West
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium343/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
+
+#EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png" group-title="Sport;Series;Movies",Fox Sports 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium39/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
 
 #EXTINF:0 tvg-country="my" tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="Sport",Astro SuperSport 2
 #KODIPROP:inputstream=inputstream.adaptive
@@ -64,6 +84,11 @@ https://webudi.openhd.lol/lb/premium124/index.m3u8|User-Agent=Mozilla/5.0 (Windo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium125/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
+
+#EXTINF:0 tvg-country="my" tvg-logo="https://i.imgur.com/pmYkltH.png" group-title="Sport",AstroUHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium294/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
 
 #EXTINF:0 tvg-country="za" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png" group-title="Sport",SuperSport Premier League
 #KODIPROP:inputstream=inputstream.adaptive
@@ -85,7 +110,3 @@ https://webudi.openhd.lol/lb/premium186/index.m3u8|User-Agent=Mozilla/5.0 (Windo
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://reels2watch.com/hls/b1.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F107.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fgamerarcades.com%2F
 
-#EXTINF:0 tvg-country="uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="Sport",BBC One England
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:satellite_and_cable_one/pc_hd_abr_v2.mpd
