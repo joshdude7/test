@@ -1,3 +1,5 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/za.xml,https://iptv-org.github.io/epg/guides/qa.xml"
+
 #EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/Bi8uR5O.png" group-title="Sport",SkySpMainEv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
