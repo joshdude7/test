@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/za.xml,https://iptv-org.github.io/epg/guides/qa.xml,https://iptv-org.github.io/epg/guides/ca.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ie.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/za.xml,https://iptv-org.github.io/epg/guides/qa.xml,https://iptv-org.github.io/epg/guides/ca.xml"
 
 #EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/Bi8uR5O.png" group-title="Sport",SkySpMainEv
 #KODIPROP:inputstream=inputstream.adaptive
@@ -85,7 +85,7 @@ https://webudi.openhd.lol/lb/premium124/index.m3u8|User-Agent=Mozilla/5.0 (Windo
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium125/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
 
-#EXTINF:0 tvg-country="my" tvg-logo="https://i.imgur.com/pmYkltH.png" group-title="Sport",AstroUHD
+#EXTINF:0 tvg-country="my" tvg-logo="https://i.imgur.com/pmYkltH.png" group-title="Sport",Astro UHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium294/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
