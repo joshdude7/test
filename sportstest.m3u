@@ -100,6 +100,11 @@ https://webudi.openhd.lol/ddyx2/premium294/tracks-v1a1/mono.m3u8|User-Agent=Mozi
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/ddy6/premium414/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
 
+#EXTINF:0 tvg-country="za" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png" group-title="Sport",SuperSport World Cup Central
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium413/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
+
 #EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Series;Movies",Paramount Network East
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
