@@ -120,10 +120,10 @@ https://webudi.openhd.lol/lb/premium413/index.m3u8|User-Agent=Mozilla/5.0 (Windo
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium334/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
 
-#EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/xNclJmu.png" group-title="Sport",Argyle TV
+#EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/xNclJmu.png" group-title="Sport",Argyle TV EFL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium186/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
+https://webudi.openhd.lol/lb/premium177/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
 
 #EXTINF:0 tvg-country="uk" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vnhcmy1582319195.png" group-title="Sport;Pay Per View",BT Sport Box Office
 #KODIPROP:inputstream=inputstream.adaptive
