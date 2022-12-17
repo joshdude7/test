@@ -110,7 +110,7 @@ https://webudi.openhd.lol/lb/premium111/index.m3u8|User-Agent=Mozilla/5.0 (Windo
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/ddy6/premium414/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
 
-#EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/xNclJmu.png" group-title="Sport",Argyle TV EFL
+#EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/xNclJmu.png" group-title="Sport",Argyle TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://s3.livemodo.click/YDSFmawh9oB-qs6hkMxV9Q/1671319010/34352e3132382e33362e313330/ff186/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F108.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.sawlive.tv
