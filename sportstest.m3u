@@ -80,11 +80,6 @@ https://webudi.openhd.lol/lb/premium124/index.m3u8|User-Agent=Mozilla/5.0 (Windo
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium125/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
 
-#EXTINF:0 tvg-country="us" tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/73681/s73681_h5_aa.png" group-title="Series",FX East
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium317/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
 #EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Series",HBO East
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
