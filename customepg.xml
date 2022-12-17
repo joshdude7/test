@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20221125">
-<channel id="argyle.uk"><display-name>Argyle TV EFL</display-name><icon src="https://i.imgur.com/xNclJmu.png"/><url>https://rev.bs</url></channel>
+<channel id="argyle.uk"><display-name>Argyle TV</display-name><icon src="https://i.imgur.com/xNclJmu.png"/><url>https://rev.bs</url></channel>
 <channel id="dazn.us"><display-name>DAZN PPV</display-name><icon src="https://i.imgur.com/GVZuKc7.png"/><url>https://rev.bs</url></channel>
 <channel id="espnplus.us"><display-name>ESPN+</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png"/><url>https://rev.bs</url></channel>
 <channel id="supersportworldcup.za"><display-name>SuperSport World Cup Central</display-name><icon src="https://supersport-cms-prod.azureedge.net/media/bepde3mm/fwc_world_cup_central_100x100.png"/><url>https://rev.bs</url></channel>
