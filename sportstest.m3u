@@ -27,6 +27,9 @@ http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/55492.ts
 #EXTINF:0 tvg-country="uk" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vnhcmy1582319195.png" group-title="Sport;Pay Per View",BT Sport Box Office
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/199.ts
 
+#EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/FGqlke7.png" group-title="Sport",Racing TV
+http://193.107.202.221:81/live/Kirk123/Kirk123/20386.ts
+
 #EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/hWdxcRX.png" group-title="Sport",LFC TV
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/274.ts
 
