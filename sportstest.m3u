@@ -15,6 +15,21 @@ http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/143021.ts
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/143018.ts
 
+#EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/Wi7rhPs.png" group-title="Sport",BT Sport 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/55490.ts
+
+#EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/MrHjmX4.png" group-title="Sport",BT Sport 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/55491.ts
+
+#EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/Ss2Gf0o.png" group-title="Sport",BT Sport 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/55492.ts
+
 #EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Sport;Series;Movies",USA Network West
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -29,6 +44,14 @@ http://bellive.top:8080/live/121663552974613000/231663552974613/19499.ts
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://193.107.202.221:81/live/Kirk123/Kirk123/39194.ts
+
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png"group-title="Sport",Super Sport Football
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://bellive.top:8080/live/121663552974613000/231663552974613/29739.ts
+
+#EXTINF:-1tvg-logo="https://www.nowtv.now.com/media/logo/621-dbg-e.png"group-title="Sport",Now HK Premier Sport 1
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/121181.ts
 
 #EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/xNclJmu.png" group-title="Sport",Argyle TV
 #KODIPROP:inputstream=inputstream.adaptive
