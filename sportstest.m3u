@@ -15,110 +15,20 @@ http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/143021.ts
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/143018.ts
 
-#EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/nhhbHvs.png" group-title="Sport",SkySp Golf
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium70/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
-#EXTINF:0 tvg-country="uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/512px-Sky_Atlantic_-_Logo_2020.svg.png" group-title="Series;Movies",Sky Atlantic
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium362/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
-#EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/Wi7rhPs.png" group-title="Sport",BT Sport 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium31/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
-#EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/MrHjmX4.png" group-title="Sport",BT Sport 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium32/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
-#EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/Ss2Gf0o.png" group-title="Sport",BT Sport 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium33/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
-#EXTINF:0 tvg-country="uk" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vnhcmy1582319195.png" group-title="Sport;Pay Per View",BT Sport Box Office
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium174/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
-#EXTINF:0 tvg-country="uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/512px-RT%C3%89_One_2014.svg.png" group-title="Sport",RTE One
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium364/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
-#EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/xr5yTPW.png" group-title="Sport",Viaplay Sports 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium451/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
-#EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/y9p63xz.png" group-title="Sport",Viaplay Sports 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium550/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
-#EXTINF:0 tvg-country="my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" group-title="Sport",Astro SuperSport
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium123/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
-#EXTINF:0 tvg-country="my" tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="Sport",Astro SuperSport 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium124/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
-#EXTINF:0 tvg-country="my" tvg-logo="https://i.imgur.com/aZlaotH.png" group-title="Sport",Astro SuperSport 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium125/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
-#EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Series",HBO East
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium321/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
-#EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="Series",TBS East
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium336/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
-#EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="Series",Discovery Channel East
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium313/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
 #EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Sport;Series;Movies",USA Network West
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/1122.ts
 
-#EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Series;Movies",Paramount Network East
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium334/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
-#EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Sport",Fox East
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium54/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
-
 #EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png" group-title="Sport",Fox Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium39/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
+http://bellive.top:8080/live/121663552974613000/231663552974613/19499.ts
 
 #EXTINF:0 tvg-country="ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sport",TSN1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://193.107.202.221:81/live/Kirk123/Kirk123/39194.ts
-
-#EXTINF:0 tvg-country="za" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png" group-title="Sport",SuperSport Premier League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/ddy6/premium414/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
 
 #EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/xNclJmu.png" group-title="Sport",Argyle TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -129,6 +39,11 @@ https://s6.livemodo.click/XqUgxEmsQyP_3OAwH-IzFQ/1671675129/38322e34372e3133372e
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://nflarcadia.xyz/hls/s2.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F108.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Ftechclips.net%2F
+
+#EXTINF:0 tvg-country="uk" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vnhcmy1582319195.png" group-title="Sport;Pay Per View",BT Sport Box Office
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium174/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36&Referer=https://streamservicehd.click/
 
 #EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/reiA4A1.png" group-title="Sport;Pay Per View",DAZN PPV
 #KODIPROP:inputstream=inputstream.adaptive
