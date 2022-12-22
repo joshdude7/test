@@ -63,6 +63,9 @@ http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/92003.ts
 #EXTINF:0 tvg-country="my" tvg-logo="https://i.imgur.com/aZlaotH.png" group-title="Sport",Astro SuperSport 3
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/92034.ts
 
+#EXTINF:0 tvg-country="my" tvg-logo="https://i.imgur.com/pmYkltH.png" group-title="Sport",Astro UHD
+http://193.107.202.221:81/live/Kirk123/Kirk123/1124635.ts
+
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png"group-title="Sport",SuperSport Football
 http://bellive.top:8080/live/121663552974613000/231663552974613/29739.ts
 
