@@ -13,7 +13,7 @@ http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/143018.ts
 http://daddyserver.com:8080/@s1entertainment/FDV3t2hZsj/143995
 
 #EXTINF:0 tvg-country="uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/512px-Sky_Atlantic_-_Logo_2020.svg.png" group-title="Series;Movies",Sky Atlantic
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/129.ts
+http://sinbox.pro:8080/live/casper01/H3g3gADDS2/119209.ts
 
 #EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/Wi7rhPs.png" group-title="Sport",BT Sport 1
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/55490.ts
@@ -36,7 +36,7 @@ http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/274.ts
 #EXTINF:0 tvg-country="ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/512px-RT%C3%89_One_2014.svg.png" group-title="Sport",RTE One
 http://193.107.202.221:81/live/Kirk123/Kirk123/51398.ts
 
-EXTINF:0 tvg-country="ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/512px-RT%C3%892_logo.svg.png" group-title="Sport",RTE2
+#EXTINF:0 tvg-country="ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/512px-RT%C3%892_logo.svg.png" group-title="Sport",RTE2
 http://193.107.202.221:81/live/Kirk123/Kirk123/51399.ts
 
 #EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/xr5yTPW.png" group-title="Sport",Viaplay Sports 1
