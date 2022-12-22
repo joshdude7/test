@@ -82,9 +82,6 @@ https://nflarcadia.xyz/hls/s2.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010
 https://reels2watch.com/hls/b1.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F107.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fgamerarcades.com%2F
 
 #EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="Sport;Pay Per View",ESPN+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1ahdgay.azureedge.net/live/b1/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F108.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fbestsolaris.com%2F
-
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/139283.ts
 
 
