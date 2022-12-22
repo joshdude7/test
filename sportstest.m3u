@@ -9,6 +9,9 @@ http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/143021.ts
 #EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/rsT6Cu2.png" group-title="Sport",SkySp F'ball
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/143018.ts
 
+#EXTINF:0 tvg-country="uk" tvg-logo="https://i.imgur.com/nhhbHvs.png" group-title="Sport",SkySp Golf
+http://daddyserver.com:8080/@s1entertainment/FDV3t2hZsj/143995
+
 #EXTINF:0 tvg-country="uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/512px-Sky_Atlantic_-_Logo_2020.svg.png" group-title="Series;Movies",Sky Atlantic
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/41.ts
 
