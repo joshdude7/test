@@ -46,7 +46,16 @@ http://193.107.202.221:81/live/Kirk123/Kirk123/104683.ts
 http://193.107.202.221:81/live/Kirk123/Kirk123/104684.ts
 
 #EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Sport;Series;Movies",USA Network West
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/1122.ts
+http://sinbox.pro:8080/live/casper01/H3g3gADDS2/154637.ts
+
+#EXTINF:0 tvg-country="us" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="Series;Movies",Showtime East
+http://sinbox.pro:8080/live/casper01/H3g3gADDS2/154637.ts
+
+#EXTINF:0 tvg-country="us" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Series;Movies",Starz East
+http://sinbox.pro:8080/live/casper01/H3g3gADDS2/154728.ts
+
+#EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Series;Movies",HBO East
+http://sinbox.pro:8080/live/casper01/H3g3gADDS2/154707.ts
 
 #EXTINF:0 tvg-country="us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png" group-title="Sport",Fox Sports 1
 http://bellive.top:8080/live/121663552974613000/231663552974613/19499.ts
@@ -65,6 +74,9 @@ http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/92034.ts
 
 #EXTINF:0 tvg-country="my" tvg-logo="https://i.imgur.com/pmYkltH.png" group-title="Sport",Astro UHD
 http://193.107.202.221:81/live/Kirk123/Kirk123/1124635.ts
+
+#EXTINF:0 tvg-country="sg" tvg-logo="https://i.postimg.cc/L80qCkjN/222-1920x1080-HTV.png" group-title="Sport",Hub Premier 2
+http://193.107.202.221:81/live/Kirk123/Kirk123/1124634.ts
 
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png"group-title="Sport",SuperSport Football
 http://bellive.top:8080/live/121663552974613000/231663552974613/29739.ts
