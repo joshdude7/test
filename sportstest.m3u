@@ -60,7 +60,7 @@ http://sinbox.pro:8080/live/casper01/H3g3gADDS2/154728.ts
 #EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Series;Movies",HBO
 http://sinbox.pro:8080/live/casper01/H3g3gADDS2/154707.ts
 
-#EXTINF:-1 tvg-id="FXEast.us" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/73681/s73681_h5_aa.png" group-title="Series;Movies",FX
+#EXTINF:-1 tvg-id="FXWest.us" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/73681/s73681_h5_aa.png" group-title="Series;Movies",FX
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/1049.ts
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png" group-title="Sport",Fox Sports 1
