@@ -81,9 +81,6 @@ http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/92034.ts
 #EXTINF:-1 tvg-id="AstroUHD.my" tvg-name="Astro UHD" tvg-logo="https://i.imgur.com/pmYkltH.png" group-title="Sport",Astro UHD
 http://193.107.202.221:81/live/Kirk123/Kirk123/1124635.ts
 
-#EXTINF:-1 tvg-id="HubPremier2.sg" tvg-name="Hub Premier 4K" tvg-logo="https://i.postimg.cc/L80qCkjN/222-1920x1080-HTV.png" group-title="Sport",Hub Premier 4K
-http://193.107.202.221:81/live/Kirk123/Kirk123/1124634.ts
-
 #EXTINF:-1 tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1" tvg-logo="https://i.postimg.cc/dV0kjNZh/221-1920x1080-HTV.png" group-title="Sport",Hub Premier 1
 http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/689887.ts
 
@@ -93,11 +90,14 @@ http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/689888.ts
 #EXTINF:-1 tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3" tvg-logo="https://i.postimg.cc/L80qCkjN/222-1920x1080-HTV.png" group-title="Sport",Hub Premier 3
 http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/689889.ts
 
+#EXTINF:-1 tvg-id="HubPremier2.sg" tvg-name="Hub Premier 4K" tvg-logo="https://i.imgur.com/OLq5lGO.png" group-title="Sport",Hub Premier 4K
+http://193.107.202.221:81/live/Kirk123/Kirk123/1124634.ts
+
 #EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png"group-title="Sport",SuperSport Football
-http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/689982.ts
+http://193.107.202.221:81/live/Kirk123/Kirk123/38703.ts
 
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png"group-title="Sport",SuperSport Premier League
-http://193.107.202.221:81/live/Kirk123/Kirk123/38703.ts
+http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/689982.ts
 
 #EXTINF:-1 tvg-id="nowSports1.hk" tvg-name="now Sports 1" tvg-logo="https://i.imgur.com/3BbhTQX.png"group-title="Sport",now Sports 1
 http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/689910.ts
