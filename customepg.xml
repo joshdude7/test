@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20221125">
-<channel id="Argyle.uk"><display-name>Argyle TV</display-name><icon src="https://i.imgur.com/xNclJmu.png"/><url>https://rev.bs</url></channel>
-<channel id="dazn.us"><display-name>DAZN PPV</display-name><icon src="https://i.imgur.com/GVZuKc7.png"/><url>https://rev.bs</url></channel>
-<channel id="espnplus.us"><display-name>ESPN+</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png"/><url>https://rev.bs</url></channel>
-<channel id="supersportworldcup.za"><display-name>SuperSport World Cup Central</display-name><icon src="https://supersport-cms-prod.azureedge.net/media/bepde3mm/fwc_world_cup_central_100x100.png"/><url>https://rev.bs</url></channel>
-<channel id="astrofwc1.my"><display-name>Astro FWC 1</display-name><icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/279_144.png"/><url>https://rev.bs</url></channel>
-<channel id="astrofwc2.my"><display-name>Astro FWC 2</display-name><icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/279_144.png"/><url>https://rev.bs</url></channel>
-<programme start="20221226150000 +0000" stop="20221217170000 +0000" channel="Argyle.uk"><title lang="en">Cheltenham Town - Plymouth Argyle</title><desc lang="en">Currently, Cheltenham Town rank 17th, while Plymouth Argyle hold 1st position.</desc><icon src="https://cdn.pafc.co.uk/sites/default/files/styles/cc_2000x1500/public/2022-12/morecambe-h-argyle-tv-header.png"/></programme>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="Black Panther">
+	<channel id="Argyle.uk">
+		<display-name>Mola Event 1 :</display-name>
+	</channel>
+	<programme start="20221226150000 +0000" stop="20221226170000 +0000" channel="Argyle.uk" >
+		<title>Cheltenham Town - Plymouth Argyle</title>
+		<desc>Currently, Cheltenham Town rank 17th, while Plymouth Argyle hold 1st position.</desc>
+	</programme>
