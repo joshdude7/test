@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="Black Panther">
 	<channel id="Argyle.uk">
-		<display-name>Mola Event 1 :</display-name>
+		<display-name>Argyle TV</display-name>
 	</channel>
-	<programme start="20221226150000 +0000" stop="20221226170000 +0000" channel="Argyle.uk" >
-		<title>Cheltenham Town - Plymouth Argyle</title>
-		<desc>Currently, Cheltenham Town rank 17th, while Plymouth Argyle hold 1st position.</desc>
+	<programme start="20221229192500 +0000" stop="20221229212500 +0000" channel="Argyle.uk" >
+		<title>EFL 1: Plymouth Argyle vs Wycombe Wanderers</title>
+		<desc>Plymouth Argyle played against Wycombe Wanderers in 1 matches this season. Currently, Plymouth Argyle rank 1st, while Wycombe Wanderers hold 7th position.</desc>
 	</programme>
