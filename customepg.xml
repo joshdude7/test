@@ -3,31 +3,39 @@
 	<channel id="Argyle.uk">
 		<display-name>Argyle TV</display-name>
 	</channel>
-	<programme start="20230218140000 +0000" stop="20230218173000 +0000" channel="Argyle.uk" >
-		<title>Plymouth Argyle vs Fleetwood Town</title>
-		<desc>Plymouth Argyle played against Fleetwood Town in 1 matches this season. Currently, Plymouth Argyle rank 1st, while Fleetwood Town hold 17th position.</desc>
+	<programme start="20230402140000 +0000" stop="20230402173000 +0000" channel="Argyle.uk" >
+		<title>Bolton Wanderers vs Plymouth Argyle</title>
+		<desc>England EFL Trophy - Stadium: Wembley Stadium (London)</desc>
 	</programme>
-	<programme start="20230221200000 +0000" stop="20230221233000 +0000" channel="Argyle.uk" >
-		<title>EFL Trophy: Plymouth Argyle vs Cheltenham Town</title>
-		<desc>A showpiece final under the Wembley arch awaits the winner as Plymouth Argyle meet Cheltenham Town in the semi-final of the 2022-23 Papa Johns Trophy.</desc>
+	<programme start="20230407140000 +0000" stop="20230407173000 +0000" channel="Argyle.uk" >
+		<title>Morecambe vs Plymouth Argyle</title>
+		<desc>England League One - Stadium: Mazuma Stadium (Morecambe, Lancashire)</desc>
 	</programme>
-	<programme start="20230225140000 +0000" stop="20230225173000 +0000" channel="Argyle.uk" >
-		<title>Peterborough United vs Plymouth Argyle</title>
-		<desc>England League One - Stadium: Weston Homes Stadium (Peterborough)</desc>
-	</programme>
-	<programme start="20230304140000 +0000" stop="20230304173000 +0000" channel="Argyle.uk" >
-		<title>Plymouth Argyle vs Charlton Athletic</title>
+	<programme start="20230410140000 +0000" stop="20230410173000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Lincoln City</title>
 		<desc>England League One - Stadium: Home Park (Plymouth)</desc>
 	</programme>
-	<programme start="20230307190000 +0000" stop="20230307233000 +0000" channel="Argyle.uk" >
-		<title>	Plymouth Argyle vs Derby County</title>
-		<desc>England League One - Stadium: Home Park (Plymouth)</desc>
+	<programme start="20230415110000 +0000" stop="20230415143000 +0000" channel="Argyle.uk" >
+		<title>Exeter City vs Plymouth Argyle</title>
+		<desc>England League One - Stadium: St James Park (Exeter, Devon)</desc>
 	</programme>
-	<programme start="20230311140000 +0000" stop="20230304173000 +0000" channel="Argyle.uk" >
-		<title>Barnsley vs Plymouth Argyle</title>
-		<desc>England League One - Stadium: Oakwell (Barnsley, South Yorkshire)</desc>
+	<programme start="20230418184500 +0000" stop="20230418214500 +0000" channel="Argyle.uk" >
+		<title>Shrewsbury Town vs Plymouth Argyle</title>
+		<desc>England League One - Stadium: Montgomery Waters Meadow (Shrewsbury, Shropshire)</desc>
 	</programme>
-	<programme start="20230318140000 +0000" stop="20230318173000 +0000" channel="Argyle.uk" >
-		<title>Plymouth Argyle vs Forest Green Rovers</title>
-		<desc>England League One - Stadium: Home Park (Plymouth)</desc>
+	<programme start="20230422140000 +0000" stop="20230422173000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Cambridge United</title>
+		<desc>England League One Stadium: Home Park (Plymouth)</desc>
+	</programme>
+	<programme start="20230425184500 +0000" stop="20230425214500 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Bristol Rovers</title>
+		<desc>England League One Stadium: Home Park (Plymouth)</desc>
+	</programme>
+	<programme start="20230429140000 +0000" stop="20230429173000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Burton Albion</title>
+		<desc>England League One Stadium: Home Park (Plymouth)</desc>
+	</programme>
+	<programme start="20230507110000 +0000" stop="20230507143000 +0000" channel="Argyle.uk" >
+		<title>Port Vale vs Plymouth Argyle</title>
+		<desc>England League One - Stadium: Vale Park (Stoke-on-Trent, Staffordshire)</desc>
 	</programme>
