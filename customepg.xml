@@ -6,8 +6,8 @@
 	<channel id="dazn.uk">
 		<display-name>DAZN</display-name>
 	</channel>
-	<programme start="20230513172000 +0000" stop="20230513234500 +0000" channel="dazn.uk" >
-		<title>X Series 007: KSI VS Fournier</title>
-		<desc>The Nightmare is back, as KSI faces Joe Fournier at MF & DAZN: X-Series 007 in Wembley Arena London, live on DAZN PPV.</desc>
+	<programme start="20230812190000 +0000" stop="20230812230000 +0000" channel="dazn.uk" >
+		<title>Joshua VS. Helenius: Fight Night</title>
+		<desc>Anthony Joshua must get past Robert Helenius if he's to secure a fight with Deontay Wilder next year.</desc>
 	</programme>
 
