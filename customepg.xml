@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="Black Panther">
 	<channel id="Argyle.uk">
 		<display-name>Argyle TV</display-name>
 	</channel>
 	<channel id="dazn.uk">
 		<display-name>DAZN</display-name>
 	</channel>
-	<channel id="Fire.uk">
-		<display-name>Live</display-name>
-	</channel>
 	<programme start="20230812190000 +0000" stop="20230812230000 +0000" channel="dazn.uk" >
 		<title>Joshua VS. Helenius: Fight Night</title>
 		<desc>Anthony Joshua must get past Robert Helenius if he's to secure a fight with Deontay Wilder next year.</desc>
 	</programme>
-	<programme start="20230817220000 +0000" stop="20230817000000 +0000" channel="Fire.uk" >
-		<title>British Firework Championship 2023</title>
-		<desc>Watch live British Firework Championship. Starts at 9:30pm</desc>
-	</programme>
+
 
