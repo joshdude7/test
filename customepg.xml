@@ -5,9 +5,9 @@
 	<channel id="event.uk">
 		<display-name>event</display-name>
 	</channel>
-	<programme start="20230826170000 +0000" stop="20230826230000 +0000" channel="event.uk" >
-		<title>Oleksandr Usyk vs Daniel Dubois: Fight Night</title>
-		<desc>Oleksandr Usyk, the unified heavyweight champion, will defend his WBC, IBF, and WBA world titles against British contender Daniel Dubois.</desc>
+	<programme start="20230909131500 +0000" stop="20230909151500 +0000" channel="event.uk" >
+		<title>Sidemen Charity Match 2023</title>
+		<desc>The highly-anticipated 2023 Sidemen Charity Match will take place on Saturday afternoon at West Ham’s London Stadium. Stars from across the YouTube world will take the pitch in the capital to compete in the huge match between Sidemen FC and YouTube All-Stars.</desc>
 	</programme>
 	<programme start="20230902140000 +0000" stop="20230902170000 +0000" channel="Argyle.uk" >
 		<title>Plymouth Argyle vs Blackburn Rovers</title>
