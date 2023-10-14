@@ -5,6 +5,10 @@
 	<channel id="event.uk">
 		<display-name>event</display-name>
 	</channel>
+	<programme start="20231014170000 +0000" stop="20231014000000 +0000" channel="event.uk" >
+		<title>KSI vs. Tommy Fury</title>
+		<desc>MF & DAZN: X Series 10 – The Prime Card will feature KSI vs Tommy Fury, billed as Judgement Day, is an upcoming cruiserweight professional crossover boxing match contested between English YouTuber KSI and English professional boxer Tommy Fury for the MFB cruiserweight title.</desc>
+	</programme>
 	<programme start="20231021140000 +0000" stop="20231021170000 +0000" channel="Argyle.uk" >
 		<title>West Bromwich Albion vs Plymouth Argyle</title>
 		<desc>England Championship Stadium: The Hawthorns (West Bromwich)</desc>
