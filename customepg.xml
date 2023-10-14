@@ -5,38 +5,6 @@
 	<channel id="event.uk">
 		<display-name>event</display-name>
 	</channel>
-	<programme start="20230909131500 +0000" stop="20230909151500 +0000" channel="event.uk" >
-		<title>Sidemen Charity Match 2023</title>
-		<desc>The highly-anticipated 2023 Sidemen Charity Match will take place on Saturday afternoon at West Ham’s London Stadium. Stars from across the YouTube world will take the pitch in the capital to compete in the huge match between Sidemen FC and YouTube All-Stars.</desc>
-	</programme>
-	<programme start="20230902140000 +0000" stop="20230902170000 +0000" channel="Argyle.uk" >
-		<title>Plymouth Argyle vs Blackburn Rovers</title>
-		<desc>England Championship - Stadium: Home Park (Plymouth)</desc>
-	</programme>
-	<programme start="20230916140000 +0000" stop="20230916170000 +0000" channel="Argyle.uk" >
-		<title>Preston North End vs Plymouth Argyle</title>
-		<desc>England Championship Stadium: Deepdale (Preston)</desc>
-	</programme>
-	<programme start="20230919184500 +0000" stop="20230919204500 +0000" channel="Argyle.uk" >
-		<title>Bristol City vs Plymouth Argyle</title>
-		<desc>England Championship Stadium: Ashton Gate (Bristol)</desc>
-	</programme>
-	<programme start="20230923140000 +0000" stop="20230923170000 +0000" channel="Argyle.uk" >
-		<title>Plymouth Argyle vs Norwich City</title>
-		<desc>England Championship Stadium: Home Park (Plymouth)</desc>
-	</programme>
-	<programme start="20230930140000 +0000" stop="20230930170000 +0000" channel="Argyle.uk" >
-		<title>Hull City vs Plymouth Argyle</title>
-		<desc>England Championship Stadium: Home Park (Plymouth)</desc>
-	</programme>
-	<programme start="20231003184500 +0000" stop="20231003204500 +0000" channel="Argyle.uk" >
-		<title>Plymouth Argyle vs Millwall</title>
-		<desc>England Championship Stadium: Home Park (Plymouth)</desc>
-	</programme>
-	<programme start="20231007140000 +0000" stop="20231007170000 +0000" channel="Argyle.uk" >
-		<title>Plymouth Argyle vs Swansea City</title>
-		<desc>England Championship Stadium: Home Park (Plymouth)</desc>
-	</programme>
 	<programme start="20231021140000 +0000" stop="20231021170000 +0000" channel="Argyle.uk" >
 		<title>West Bromwich Albion vs Plymouth Argyle</title>
 		<desc>England Championship Stadium: The Hawthorns (West Bromwich)</desc>
