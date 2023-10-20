@@ -5,6 +5,10 @@
 	<channel id="event.uk">
 		<display-name>event</display-name>
 	</channel>
+	<programme start="20231028180000 +0000" stop="20231028230000 +0000" channel="event.uk" >
+		<title>Fury vs. Ngannou</title>
+		<desc>(Riyadh, Saudi Arabia) One of the biggest fights of the year happens October 28 as lineal and WBC heavyweight world champion Tyson Fury takes on PFL star Francis Ngannou in an epic showdown between two giants of combat sports.</desc>
+	</programme>
 	<programme start="20231021140000 +0000" stop="20231021170000 +0000" channel="Argyle.uk" >
 		<title>West Bromwich Albion vs Plymouth Argyle</title>
 		<desc>England Championship Stadium: The Hawthorns (West Bromwich)</desc>
@@ -36,8 +40,4 @@
 	<programme start="20231202140000 +0000" stop="20231202170000 +0000" channel="Argyle.uk" >
 		<title>Plymouth Argyle vs Stoke City</title>
 		<desc>England Championship Stadium: Home Park (Plymouth)</desc>
-	</programme>
-	<programme start="20231014170000 +0000" stop="20231014000000 +0000" channel="event.uk" >
-		<title>KSI vs. Tommy Fury</title>
-		<desc>(£̶2̶0̶.̶9̶9̶) MF and DAZN: X Series 10 – The Prime Card will feature KSI vs Tommy Fury, billed as Judgement Day, is an upcoming cruiserweight professional crossover boxing match contested between English YouTuber KSI and English professional boxer Tommy Fury for the MFB cruiserweight title.</desc>
 	</programme>
