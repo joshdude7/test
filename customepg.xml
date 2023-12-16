@@ -5,39 +5,103 @@
 	<channel id="event.uk">
 		<display-name>event</display-name>
 	</channel>
-	<programme start="20231028180000 +0000" stop="20231028230000 +0000" channel="event.uk" >
-		<title>Fury vs. Ngannou</title>
-		<desc>(Riyadh, Saudi Arabia) One of the biggest fights of the year happens October 28 as lineal and WBC heavyweight world champion Tyson Fury takes on PFL star Francis Ngannou in an epic showdown between two giants of combat sports.</desc>
-	</programme>
-	<programme start="20231021140000 +0000" stop="20231021170000 +0000" channel="Argyle.uk" >
-		<title>West Bromwich Albion vs Plymouth Argyle</title>
-		<desc>England Championship Stadium: The Hawthorns (West Bromwich)</desc>
-	</programme>
-	<programme start="20231025184500 +0000" stop="20231025204500 +0000" channel="Argyle.uk" >
-		<title>Plymouth Argyle vs Sheffield Wednesday</title>
+	<programme start="20231223140000 +0000" stop="20231223170000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Birmingham City</title>
 		<desc>England Championship Stadium: Home Park (Plymouth)</desc>
 	</programme>
-	<programme start="20231028140000 +0000" stop="20231028170000 +0000" channel="Argyle.uk" >
-		<title>Ipswich Town vs Plymouth Argyle</title>
-		<desc>England Championship Stadium: Portman Road (Ipswich, Suffolk)</desc>
+	<programme start="20231226140000 +0000" stop="20231226170000 +0000" channel="Argyle.uk" >
+		<title>Cardiff City vs Plymouth Argyle</title>
+		<desc>England Championship Stadium: Cardiff City Stadium (Cardiff (Caerdydd))</desc>
 	</programme>
-	<programme start="20231104140000 +0000" stop="20231104170000 +0000" channel="Argyle.uk" >
-		<title>Plymouth Argyle vs Middlesbrough</title>
+	<programme start="20231229170000 +0000" stop="20231223200000 +0000" channel="Argyle.uk" >
+		<title>Southampton vs Plymouth Argyle</title>
+		<desc>England Championship Stadium: St. Mary's Stadium (Southampton, Hampshire)</desc>
+	</programme>
+	<programme start="20240101140000 +0000" stop="20240101170000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Watford stream</title>
 		<desc>England Championship Stadium: Home Park (Plymouth)</desc>
 	</programme>
-	<programme start="20231111140000 +0000" stop="20231111170000 +0000" channel="Argyle.uk" >
-		<title>Leeds United vs Plymouth Argyle</title>
-		<desc>England ChampionshipStadium: Elland Road (Leeds, West Yorkshire)</desc>
+	<programme start="20240106140000 +0000" stop="20240106170000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Sutton United</title>
+		<desc>FA Cup - Stadium: Home Park (Plymouth)</desc>
 	</programme>
-	<programme start="20231125140000 +0000" stop="20231125170000 +0000" channel="Argyle.uk" >
-		<title>Plymouth Argyle vs Sunderland</title>
-		<desc>England Championship Stadium: Home Park (Plymouth)</desc>
+	<programme start="20240113140000 +0000" stop="20240113170000 +0000" channel="Argyle.uk" >
+		<title>Huddersfield Town vs Plymouth Argyle</title>
+		<desc>English Championship - Stadium: John Smith's Stadium (Huddersfield, West Yorkshire)</desc>
 	</programme>
-	<programme start="20231128184500 +0000" stop="20231128204500 +0000" channel="Argyle.uk" >
-		<title>Coventry City vs Plymouth Argyle</title>
-		<desc>England Championship Stadium: Home Park (Plymouth)</desc>
+	<programme start="20240120140000 +0000" stop="20240120170000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Cardiff City</title>
+		<desc>English Championship - Stadium: Home Park (Plymouth)</desc>
 	</programme>
-	<programme start="20231202140000 +0000" stop="20231202170000 +0000" channel="Argyle.uk" >
-		<title>Plymouth Argyle vs Stoke City</title>
-		<desc>England Championship Stadium: Home Park (Plymouth)</desc>
+	<programme start="20240127140000 +0000" stop="20240127170000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs West Bromwich Albion</title>
+		<desc>English Championship - Stadium: Home Park (Plymouth)</desc>
+	</programme>
+	<programme start="20240203140000 +0000" stop="20240203170000 +0000" channel="Argyle.uk" >
+		<title>Swansea City vs Plymouth Argyle</title>
+		<desc>English Championship - Stadium: Swansea.com Stadium (Swansea)</desc>
+	</programme>
+	<programme start="20240210140000 +0000" stop="20240210170000 +0000" channel="Argyle.uk" >
+		<title>Sunderland vs Plymouth Argyle</title>
+		<desc>English Championship - Stadium: Stadium of Light (Sunderland)</desc>
+	</programme>
+	<programme start="20240214183000 +0000" stop="20240214213000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Coventry City</title>
+		<desc>English Championship - Stadium: Home Park (Plymouth)</desc>
+	</programme>
+	<programme start="20240217140000 +0000" stop="20240217170000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Leeds United</title>
+		<desc>English Championship - Stadium: Home Park (Plymouth)</desc>
+	</programme>
+	<programme start="20240224140000 +0000" stop="20240224170000 +0000" channel="Argyle.uk" >
+		<title>Middlesbrough vs Plymouth Argyle</title>
+		<desc>English Championship - Stadium: Riverside Stadium (Middlesbrough)</desc>
+	</programme>
+	<programme start="20240302140000 +0000" stop="20240302170000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Ipswich Town</title>
+		<desc>English Championship - Stadium: Home Park (Plymouth)</desc>
+	</programme>
+	<programme start="20240306183000 +0000" stop="20240306213000 +0000" channel="Argyle.uk" >
+		<title>Sheffield Wednesday vs Plymouth Argyle</title>
+		<desc>English Championship - Stadium: Hillsborough (Sheffield)</desc>
+	</programme>
+	<programme start="20240309140000 +0000" stop="20240309170000 +0000" channel="Argyle.uk" >
+		<title>Blackburn Rovers vs Plymouth Argyle</title>
+		<desc>English Championship - Stadium: Ewood Park (Blackburn, Lancashire)</desc>
+	</programme>
+	<programme start="20240316140000 +0000" stop="20240316170000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Preston North End</title>
+		<desc>English Championship - Stadium: Home Park (Plymouth)</desc>
+	</programme>
+	<programme start="20240329130000 +0000" stop="20240329160000 +0000" channel="Argyle.uk" >
+		<title>Norwich City vs Plymouth Argyle</title>
+		<desc>English Championship - Stadium: Carrow Road (Norwich, Norfolk)</desc>
+	</programme>
+	<programme start="20240401140000 +0000" stop="20240401170000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Bristol City</title>
+		<desc>English Championship - Stadium: Home Park (Plymouth)</desc>
+	</programme>
+	<programme start="20240406140000 +0000" stop="20240406170000 +0000" channel="Argyle.uk" >
+		<title>Rotherham United vs Plymouth Argyle</title>
+		<desc>English Championship - Stadium: AESSEAL New York Stadium (Rotherham, South Yorkshire)</desc>
+	</programme>
+	<programme start="20240409183000 +0000" stop="20240409213000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Queens Park Rangers</title>
+		<desc>English Championship - Stadium: Home Park (Plymouth)</desc>
+	</programme>
+	<programme start="20240413140000 +0000" stop="20240413170000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Leicester City</title>
+		<desc>English Championship - Stadium: Home Park (Plymouth)</desc>
+	</programme>
+	<programme start="20240420140000 +0000" stop="20240420170000 +0000" channel="Argyle.uk" >
+		<title>Stoke City vs Plymouth Argyle</title>
+		<desc>English Championship - Stadium: bet365 Stadium (Stoke-on-Trent, Staffordshire)</desc>
+	</programme>
+	<programme start="20240427140000 +0000" stop="20240427170000 +0000" channel="Argyle.uk" >
+		<title>Millwall vs Plymouth Argyle</title>
+		<desc>English Championship - Stadium: The Den (London)</desc>
+	</programme>
+	<programme start="20240504140000 +0000" stop="20240504170000 +0000" channel="Argyle.uk" >
+		<title>Plymouth Argyle vs Hull City</title>
+		<desc>English Championship - Stadium: Home Park (Plymouth)</desc>
 	</programme>
